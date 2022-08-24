@@ -5,6 +5,7 @@
 - [molotov-ext](https://github.com/2gis-test-labs/molotov-ext) — Metrics for [Molotov](https://molotov.readthedocs.io/en/stable/)
 - [perfberry](https://github.com/2gis-test-labs/perfberry) — Store and visualize your performance results
 - [vedro-playwright](https://github.com/2gis-test-labs/vedro-playwright) — [Vedro](https://vedro.io/) + [Playwright](https://playwright.dev/python/) (plugin)
+- [web-bricks](https://github.com/2gis-test-labs/web-bricks) — PageObject constructor for UI automation
 
 ## Articles
 
