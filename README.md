@@ -15,3 +15,4 @@
 
 - [20-06-2022] [Моки. Туда и обратно](https://www.youtube.com/watch?v=l8zh3DsZYz4)
 - [28-05-2022] [Как перестать писать интеграционные* тесты](https://12.codefest.ru/lecture/2052)
+- [20-05-2022] [Проверка ретраев через мок](https://www.youtube.com/watch?v=fS7xp1lncLo)
