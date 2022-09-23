@@ -9,11 +9,11 @@
 
 ## Articles
 
-- [19-10-2021] [О чём говорят тестировщики (на лит клубах)](https://medium.com/@julen.gladja/qa-book-club-7fb61b3bf59)
+- [19-10-2021] [О чём говорят тестировщики (на лит клубах)](https://medium.com/@julen.gladja/qa-book-club-7fb61b3bf59) (Наташа Митрофанова)
 
 ## Talks
 
-- [02-08-2022] [Тестирование: hardware vs web](https://www.youtube.com/watch?v=nrn42NF5jq4)
-- [20-06-2022] [Моки. Туда и обратно](https://www.youtube.com/watch?v=l8zh3DsZYz4)
-- [28-05-2022] [Как перестать писать интеграционные* тесты](https://12.codefest.ru/lecture/2052)
-- [20-05-2022] [Проверка ретраев через мок](https://www.youtube.com/watch?v=fS7xp1lncLo)
+- [02-08-2022] [Тестирование: hardware vs web](https://www.youtube.com/watch?v=nrn42NF5jq4) (Богдан Полянок)
+- [20-06-2022] [Моки. Туда и обратно](https://www.youtube.com/watch?v=l8zh3DsZYz4) (Никита Цвeтков)
+- [28-05-2022] [Как перестать писать интеграционные* тесты](https://12.codefest.ru/lecture/2052) (Никита Цвeтков)
+- [20-05-2022] [Проверка ретраев через мок](https://www.youtube.com/watch?v=fS7xp1lncLo) (Даша Черепахина)
